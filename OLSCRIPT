@@ -1,0 +1,15 @@
+{
+  "contact": "linkinito",
+  "templates": [
+    {
+      "name": "Lyon",
+      "sources": [
+        "https://i.imgur.com/bHdMDhS.png"
+      ],
+      "x": 211,
+      "y": 608
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
