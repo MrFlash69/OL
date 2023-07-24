@@ -1,0 +1,15 @@
+{
+  "contact": "Mrflash",
+  "templates": [
+    {
+      "name": "Lyon X Galatasaray",
+      "sources": [
+        "https://i.imgur.com/20MHyj2.png"
+      ],
+      "x": 708,
+      "y": 733
+    }
+  ],
+  "whitelist": [],
+  "blacklist": []
+}
